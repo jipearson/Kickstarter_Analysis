@@ -1,3 +1,5 @@
 # Kickstarter Campaign Analysis
 Performing analysis on Kickstarter data to uncover trends
-![Outcomes_Based on Launch Date](C:\Users\jipea\OneDrive\Vandy Boot Camp\Projects\Module 1\Outcomes_Based on Launch Date.png
+![](Parent_Category_Outcomes.png)
+![](Subcategory_Outcomes.png)
+![](Outcomes_Based_on_Launch_Date.png)
