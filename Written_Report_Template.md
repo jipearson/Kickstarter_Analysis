@@ -1,16 +1,14 @@
 # Kickstarting with Excel
 
-## Kickstarter campaign performance based on launch dates and funding goals.
+## Overview of Project
 
 ### Purpose
 
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
-![](Resources/Theater_Outcomes_vs_Launch.png)
 
 ### Analysis of Outcomes Based on Goals
-![](Resources/Outcomes_vs_Goals.png)
 
 ### Challenges and Difficulties Encountered
 
