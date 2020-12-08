@@ -1,14 +1,16 @@
 # Kickstarting with Excel
 
 ## Overview of Project
-
+Analysis of Kickstarter campaigns and the impact launch dates and funding goals have on performance. 
 ### Purpose
 
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
+![](Resources/Outcome_Based_on_Launch_Date.png)
 
 ### Analysis of Outcomes Based on Goals
+![](Resources/Parent_Category_Outcomes.png)
 
 ### Challenges and Difficulties Encountered
 
