@@ -10,7 +10,7 @@ Analysis of Kickstarter campaigns and the impact launch dates and funding goals 
 ![](Resources/Theater_Outcomes_vs_Launch.png)
 
 ### Analysis of Outcomes Based on Goals
-![](Resources/Parent_Category_Outcomes.png)
+![](Resources/Outcomes_vs_Goals.png)
 
 ### Challenges and Difficulties Encountered
 
