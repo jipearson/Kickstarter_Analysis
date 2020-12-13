@@ -20,10 +20,18 @@ The "Outcomes Based on Goal" graphic above shows that the campaigns with the hig
 Although there were minimal issues faced performing this analysis, the volume issue stated above can makes it difficult to make confident recommendations based on more granular criteria elements. 
 ## Results
 
-- What are two conclusions you can draw about the Outcomes based on Launch Date?
+- Outcomes based on Launch Date conclusions
+  - Months with higher volumes of launched campaigns tend to have higher success rates. 
+  - Even though May typically has the highest volume of new campaign launches it is still the most attractive month from a rate of success standpoint. 
 
 - What can you conclude about the Outcomes based on Goals?
+  - We generally see a deterioration in the rate of successs as the campaign goal increases (again - difficult to extract meaningful conclusions from the higher goal buckets)
+  - While only 31% of campaigns have a goal greater than 5k the same population accounts for nearly 46% of failed campaigns.  
 
-- What are some limitations of this dataset?
-
+- Dataset limitations.
+  - There are relatively few records in the data which makes it difficult to disect more granular categories. 
+  - We have no way to measure elements not listed in the data set, specifically the visual factors that help determine a campaigns success/failure. 
+  
 - What are some other possible tables and/or graphs that we could create?
+  - test
+  - test
