@@ -1,14 +1,16 @@
 # Kickstarting with Excel
 
 ## Overview of Project
-Analysis of Kickstarter campaigns and the impact launch dates and funding goals have on performance. 
+Analysis of Kickstarter Theatre campaigns and the impact launch dates and funding goals have on overall campaign performance. 
 ### Purpose
-
+Determining the ideal launch date and appetite for funding.  
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
+The graphics below show theatre funding outcomes based on the campaign launch date (2010-2017). 
 ![](Resources/Theater_Outcomes_vs_Launch.png)
 ![](Resources/Success_Rates_Based_on_Launch_Date.png)
+The top graphic shows that the late spring early summer months generally have the highest volumes of new campaign launches, May leads the way followed by June and July. Not only do May, June, and July have the highest launch volumes but also the highest rate of success as shown in the bottom graphic above. 
 ### Analysis of Outcomes Based on Goals
 ![](Resources/Outcomes_vs_Goals.png)
 
